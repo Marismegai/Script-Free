@@ -2632,7 +2632,7 @@ local D = Window:MakeTab({
 })
 
 local R = Window:MakeTab({
-    Name = "☣Race V4",
+    Name = "Race V4",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
